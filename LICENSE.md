@@ -1,4 +1,4 @@
-Copyright (c) 2026 RD-3D — José Ignacio R.D.
+Copyright (c) 2026 RD-3D — José Ignacio Ruiz Díaz.
 
 Todos los derechos reservados.
 
